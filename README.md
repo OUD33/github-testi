@@ -1,8 +1,15 @@
-Aloitusteksti <h1>
+# Aloitusteksti <h1>
 
 nyt on **kova**
 
-*lista
-*lista2
+* lista
+* lista2
 
 _jeppis_
+
+# Linkkitesti <h2>
+
+[tehtävä 1](laskarit/viikko1/gitlog.txt)
+[tehtävä 2](laskarit/viikko2/komentorivi.txt)
+
+
