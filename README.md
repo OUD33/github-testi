@@ -10,6 +10,6 @@ _jeppis_
 # Linkkitesti <h2>
 
 [tehtävä 1](laskarit/viikko1/gitlog.txt)
-[tehtävä 2](laskarit/viikko2/komentorivi.txt)
+[tehtävä 2](laskarit/viikko1/komentorivi.txt)
 
 
