@@ -12,4 +12,6 @@ _jeppis_
 [tehtävä 1](laskarit/viikko1/gitlog.txt)
 [tehtävä 2](laskarit/viikko1/komentorivi.txt)
 
+Laitetaast tähän modia
+
 
