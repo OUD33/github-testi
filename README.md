@@ -11,6 +11,9 @@ _jeppis_
 
 [tehtävä 1](laskarit/viikko1/gitlog.txt)
 [tehtävä 2](laskarit/viikko1/komentorivi.txt)
+[tehtävä 3](laskarit/viikko1/testihommia.txt)
+
+Jees elikkäs näin
 
 Laitetaas tähän modia
 
