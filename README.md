@@ -14,7 +14,9 @@ _jeppis_
 [tehtävä 3](laskarit/viikko1/testihommia.txt)
 
 Jees elikkäs näin
+MODDAUSTA
 
 Laitetaas tähän modia
 
 
+dfdf
